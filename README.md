@@ -1,13 +1,9 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
-
 ## 📊 자기 소개 (Introduction)
 ------
 
-### ~한 000입니다.
-
-- 한줄 자기소개 
-예시)"데이터 분석에 뛰어난 역량과 실무 경험을 갖춘 데이터 엔지니어로, 복잡한 문제에 효과적인 솔루션을 제시합니다."
+### DATA로 사람을 이해하고 AI로 사회에 기여하고 싶은 데이터 과학자입니다. 
+I decode human minds with data and aim to make the world greater with AI’s power later.
+- RAG시스템 구축에 뛰어난 역량과 프로젝트 경험을 갖춘 데이터 과학자로, 특히 금융, 이커머스 분야에서 창의적인 인사이트를 제공합니다.
 > 
 >
 > 
@@ -24,14 +20,30 @@
 
 ## 📊 교육 (Education)
 ------
-🏫 학교 이름 (시작연도 - 졸업연도)
+🏫 건국대학교 (2019 - 2025)
 
-- 전공 & 과 이름
+- 경영학 전공
 
 
 ## 📊 보유 스킬 (Skill)
 ------
-- 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
+### Language 
+- Python
+- SQL
+### Data
+- EDA - Pandas, Numpy,
+- Visualation: Matplotlib, Pyplot, Seaborn
+### ML
+- Linear Regression, Logistic Regression, Decision Tree
+- PCA, Random Forest, LightGBM, XGBoost
+- Ensemble(Bagging, Boosting, Stacking), k-NN
+### DL
+- TensorFlow, CNN, AutoInt, AutoInt+
+### LangChain
+- LLM: OpenAI API, Upstage API
+- Retriever: BM25, KiwiBM25, Milvus, Ensemble
+- Vector DB: Milvus, Chroma, FAISS
+- Data type : Document(PDF, json, jsonl)
 
 ## 📊 프로젝트 (Project)
 ------
