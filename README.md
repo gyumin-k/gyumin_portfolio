@@ -47,7 +47,7 @@ I decode human minds with data and aim to make the world greater with AI’s pow
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/trash.jpeg)
+![trash](assets/img/report.jpg)
 
 [RAG: 채권 리포트 기반 RAG 구축](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
 - Langchain을 사용하여 채권 리포트를 기반으로 VectorDB를 구축하고 RAG를 최적화하였습니다.
