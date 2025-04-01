@@ -49,10 +49,10 @@ I decode human minds with data and aim to make the world greater with AI’s pow
 ------
 ![trash](assets/img/trash.jpeg)
 
-[딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
-- CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
+[RAG: 채권 리포트 기반 RAG 구축](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
+- Langchain을 사용하여 채권 리포트를 기반으로 VectorDB를 구축하고 RAG를 최적화하였습니다.
 
 ![newyork](assets/img/newyork.jpeg)
 
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
+[에어비엔비 거래 취소 예측 모델](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
+- 에어비엔비의 데이터를 이용하여 고객들이 거래 취소 여부를 예측하는 모델을 만들었습니다.
