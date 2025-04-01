@@ -3,7 +3,7 @@
 
 ### DATA로 사람을 이해하고 AI로 사회에 기여하고 싶은 데이터 과학자입니다. 
 I decode human minds with data and aim to make the world greater with AI’s power later.
-- RAG시스템 구축에 뛰어난 역량과 프로젝트 경험을 갖춘 데이터 과학자로, 특히 금융, 이커머스 분야에서 창의적인 인사이트를 제공합니다.
+- RAG시스템 구축에 뛰어난 역량과 프로젝트 경험을 갖춘 데이터 과학자로, 특히 금융 분야에서 창의적인 인사이트를 제공합니다.
 > 
 >
 > 
